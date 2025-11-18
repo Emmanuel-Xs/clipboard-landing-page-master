@@ -48,8 +48,6 @@ Users should be able to:
 
 To make sure the desktop image is fixed to the left of the page at tablets and desktop screen sizes i made use of named grid lines for entire page and subgrid for the `body` children.
 
-To see how you can add code snippets, see below:
-
 ```css
 body {
   display: grid;
